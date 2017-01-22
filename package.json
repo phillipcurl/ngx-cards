@@ -1,6 +1,6 @@
 {
   "name": "ngx-cards",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A collection of functional UI components for building multimedia cards in Angular apps",
   "main": "./dist/umd/ngx-cards.js",
   "module": "./dist/esm/src/index.js",
